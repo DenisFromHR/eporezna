@@ -1,0 +1,14 @@
+
+Dvije Perl skripte koje sam napravio za svoje potrebe za pripremu XML obrazaca za e-poreznu.
+Skripte su za pripremu mjesečnog URA obrasca i mjesečnog PDV obrasca.
+Ulazni podaci za skripte su TXT (tab-delimited) datoteke s podacima izvezenim iz knjigovodstvenog programa (u mojem slučaju je to FileMaker, pa zato npr. "URA-exp.tab" ima malo čudan format).
+
+Za korištenje za vlastite potrebe treba promijeniti podatke u skriptama (zaglavlja) potrebnim podacima (naziv firme/obrta, porezna ispostava, OIB, šifra djelatnosti, itd.)
+
+Uglavnom, treba pogledati strukturu priloženih uzoraka *.tab datoteka i prilagoditi skripte formatu svojih ulaznih podataka.
+
+Skripte se ustupaju na besplatno korištenje, možda kome bude od pomoći.
+
+Autor: 
+Denis Pleić, Advisum
+www.advisum.hr
